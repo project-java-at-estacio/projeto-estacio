@@ -1,0 +1,10 @@
+node_modules
+*.log
+.idea
+.vscode
+.DS_Store
+
+# O arquivo .dockerignore é utilizado para especificar quais arquivos
+# e diretórios devem ser ignorados durante o processo de construção da imagem Docker.
+# É especialmente útil para excluir arquivos e diretórios que
+# não são necessários ou que podem tornar a imagem maior do que o necessário.

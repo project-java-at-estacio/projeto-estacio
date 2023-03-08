@@ -1,0 +1,63 @@
+*.class
+
+Compiled source
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+Compiled Java
+#################
+*.class
+
+Log Files
+#############
+*.log
+
+BlueJ files
+################
+*.ctxt
+
+Package Files
+#################
+*.jar
+*.war
+*.ear
+
+IDEA files
+##############
+*.iml
+*.ipr
+*.iws
+.idea/
+
+Eclipse files
+#################
+*.classpath
+*.project
+*.settings/
+*.metadata/
+
+Maven
+#########
+target/
+pom.xml.*
+pom.xml
+dependency-reduced-pom.xml
+buildNumber.properties
+.rebel.xml
+m2e-lastUpdated.properties
+
+Gradle
+##########
+.gradle
+build/
+
+Other
+#########
+*.DS_Store
+Thumbs.db
+test-output/

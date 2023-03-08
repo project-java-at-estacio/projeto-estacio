@@ -1,0 +1,12 @@
+{
+  "port": 8080,
+  "database": {
+      "url": "jdbc:mysql://localhost:3306/biblioteca",
+      "username": "root",
+      "password": "senha"
+  },
+  "logger": {
+      "level": "INFO",
+      "file": "logs/app.log"
+  }
+}
